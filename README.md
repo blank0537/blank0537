@@ -1,6 +1,9 @@
 # 💫 About Me:
 🔭 I’m currently working on:<br>Full Stack Web projects in the Sports Industry and actively contributing to Open Source Projects<br><br>👯 I’m looking to work on:<br>Open Source Projects<br><br>🌱 I’m currently learning:<br>Rust, Vector/Relational Databases<br><br>💬 Ask me about:<br>Anything on mentioned Tech stacks that I know and any general software development questions.
 
+<div align="left">
+[![ToolJet Plugin Contributor](https://logo-badges.tooljet.com/plugin.png)](https://github.com/ToolJet/ToolJet/pull/9213)
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anish-singh-592930169) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/blank_0537) 
