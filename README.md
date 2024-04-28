@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>Full Stack Web projects in the Sports Industry and actively contributing to Open Source Projects<br><br>👯 I’m looking to work on:<br>Open Source Projects<br><br>🌱 I’m currently learning:<br>Rust, Vector/Relational Databases<br><br>💬 Ask me about:<br>Anything on mentioned Tech stacks that I know and any general software development questions.
+🔭 I’m currently working on:<br>Full Stack Web projects in the Sports Industry and actively contributing to Open Source Projects<br><br>👯 I’m looking to work on:<br>Open Source Projects<br><br>🌱 I’m currently learning:<br>Rust, Golang<br><br>💬 Ask me about:<br>Anything on mentioned Tech stacks that I know and any general software development questions.
 
 <div align="left">
 [![ToolJet Plugin Contributor](https://logo-badges.tooljet.com/plugin.png)](https://github.com/ToolJet/ToolJet/pull/9213)
